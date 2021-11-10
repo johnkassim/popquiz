@@ -1,0 +1,46 @@
+
+  .split {
+    height: 100%;
+    
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    overflow-x: hidden;
+    padding-top: 20px;
+  }
+  
+  .left {
+    left: 0;
+    padding-top: 3%;
+    padding-left: 3%;
+    width: 60%;
+  }
+
+  h1{
+      color: black;
+  }
+
+  p{
+      color: black;
+  }
+  
+  .right {
+    right: 0;
+    width: 40%;
+    padding-top: 15%;
+    padding-left: 3%;
+    padding-right: 3%;
+  }
+  
+  .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+  }
+  
+  .centered img {
+    width: 150px;
+    border-radius: 50%;
+  }

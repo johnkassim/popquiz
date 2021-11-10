@@ -1,0 +1,106 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "bruce",
+      "class": "matahari",
+      "score": "10"
+    },
+    {
+      "id": 2,
+      "name": "karim",
+      "class": "matahari",
+      "score": "10"
+    },
+    {
+      "name": "tasmanian",
+      "class": "bulan",
+      "id": 3
+    }
+  ],
+  "register": [
+    {
+      "email": "a@a.com",
+      "password": "chimichanga",
+      "id": 1
+    }
+  ],
+  "score": [
+    {
+      "score": "",
+      "id": 1
+    },
+    {
+      "score": "1",
+      "id": 2
+    },
+    {
+      "score": "0",
+      "id": 3
+    },
+    {
+      "score": "1",
+      "id": 4
+    },
+    {
+      "score": "1",
+      "id": 5
+    },
+    {
+      "score": "0",
+      "id": 6
+    },
+    {
+      "score": "1",
+      "id": 7
+    },
+    {
+      "score": "1",
+      "id": 8
+    },
+    {
+      "score": "1",
+      "id": 9
+    },
+    {
+      "score": "1",
+      "id": 10
+    },
+    {
+      "score": "1",
+      "id": 11
+    },
+    {
+      "score": "1",
+      "id": 12
+    },
+    {
+      "score": "1",
+      "id": 13
+    },
+    {
+      "score": "1",
+      "id": 14
+    },
+    {
+      "score": "1",
+      "id": 15
+    },
+    {
+      "score": "1",
+      "id": 16
+    },
+    {
+      "score": "1",
+      "id": 17
+    },
+    {
+      "score": "0",
+      "id": 18
+    },
+    {
+      "score": "",
+      "id": 19
+    }
+  ]
+}
